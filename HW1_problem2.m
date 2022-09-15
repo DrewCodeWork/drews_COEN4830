@@ -86,7 +86,7 @@ title('Problem 2(e): x[n]*delta[n-1]')
 
 %Data set for part (f)
 %n = [-5 -4 -3 -2 -1 0 1 2 3 4 5];
-xn = [0 0 0 0 0 2 0 -4 0 0 0];
+xn = [0 0 0 0 0 2 0 4 0 0 0];
 
 %Create plot of discrete data
 figure(7)
